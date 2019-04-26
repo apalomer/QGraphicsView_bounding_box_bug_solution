@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8 FATAL_ERROR)
 
-project(QGraphicsPixmapItem_bug_solution)
+project(QGraphicsView_bounding_box_bug_solution)
 
 add_compile_options(-std=c++11)
 
