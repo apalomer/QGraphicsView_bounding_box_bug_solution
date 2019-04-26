@@ -1,0 +1,17 @@
+*~
+lib
+*.so
+*.user*
+bin
+build*
+tmp*
+*.idea
+*met
+untitled*
+.tags
+*.swp
+*.json
+doc
+*.xml
+*cmake-build-debug*
+*cmake-build-default*
